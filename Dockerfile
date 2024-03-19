@@ -7,4 +7,4 @@ RUN npm install
 
 COPY . .
 
-CMD ["node", "hello_world.js"]
+CMD ["node", "app.js"]
